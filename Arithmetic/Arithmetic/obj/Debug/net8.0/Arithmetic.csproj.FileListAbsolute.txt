@@ -1,0 +1,15 @@
+D:\katugnawsac2\Arithmetic\Arithmetic\bin\Debug\net8.0\Arithmetic.exe
+D:\katugnawsac2\Arithmetic\Arithmetic\bin\Debug\net8.0\Arithmetic.deps.json
+D:\katugnawsac2\Arithmetic\Arithmetic\bin\Debug\net8.0\Arithmetic.runtimeconfig.json
+D:\katugnawsac2\Arithmetic\Arithmetic\bin\Debug\net8.0\Arithmetic.dll
+D:\katugnawsac2\Arithmetic\Arithmetic\bin\Debug\net8.0\Arithmetic.pdb
+D:\katugnawsac2\Arithmetic\Arithmetic\obj\Debug\net8.0\Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+D:\katugnawsac2\Arithmetic\Arithmetic\obj\Debug\net8.0\Arithmetic.AssemblyInfoInputs.cache
+D:\katugnawsac2\Arithmetic\Arithmetic\obj\Debug\net8.0\Arithmetic.AssemblyInfo.cs
+D:\katugnawsac2\Arithmetic\Arithmetic\obj\Debug\net8.0\Arithmetic.csproj.CoreCompileInputs.cache
+D:\katugnawsac2\Arithmetic\Arithmetic\obj\Debug\net8.0\Arithmetic.sourcelink.json
+D:\katugnawsac2\Arithmetic\Arithmetic\obj\Debug\net8.0\Arithmetic.dll
+D:\katugnawsac2\Arithmetic\Arithmetic\obj\Debug\net8.0\refint\Arithmetic.dll
+D:\katugnawsac2\Arithmetic\Arithmetic\obj\Debug\net8.0\Arithmetic.pdb
+D:\katugnawsac2\Arithmetic\Arithmetic\obj\Debug\net8.0\Arithmetic.genruntimeconfig.cache
+D:\katugnawsac2\Arithmetic\Arithmetic\obj\Debug\net8.0\ref\Arithmetic.dll
