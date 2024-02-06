@@ -1,0 +1,15 @@
+D:\katugnawsac2\Activity2\Activity2\bin\Debug\net8.0\Activity2.exe
+D:\katugnawsac2\Activity2\Activity2\bin\Debug\net8.0\Activity2.deps.json
+D:\katugnawsac2\Activity2\Activity2\bin\Debug\net8.0\Activity2.runtimeconfig.json
+D:\katugnawsac2\Activity2\Activity2\bin\Debug\net8.0\Activity2.dll
+D:\katugnawsac2\Activity2\Activity2\bin\Debug\net8.0\Activity2.pdb
+D:\katugnawsac2\Activity2\Activity2\obj\Debug\net8.0\Activity2.GeneratedMSBuildEditorConfig.editorconfig
+D:\katugnawsac2\Activity2\Activity2\obj\Debug\net8.0\Activity2.AssemblyInfoInputs.cache
+D:\katugnawsac2\Activity2\Activity2\obj\Debug\net8.0\Activity2.AssemblyInfo.cs
+D:\katugnawsac2\Activity2\Activity2\obj\Debug\net8.0\Activity2.csproj.CoreCompileInputs.cache
+D:\katugnawsac2\Activity2\Activity2\obj\Debug\net8.0\Activity2.sourcelink.json
+D:\katugnawsac2\Activity2\Activity2\obj\Debug\net8.0\Activity2.dll
+D:\katugnawsac2\Activity2\Activity2\obj\Debug\net8.0\refint\Activity2.dll
+D:\katugnawsac2\Activity2\Activity2\obj\Debug\net8.0\Activity2.pdb
+D:\katugnawsac2\Activity2\Activity2\obj\Debug\net8.0\Activity2.genruntimeconfig.cache
+D:\katugnawsac2\Activity2\Activity2\obj\Debug\net8.0\ref\Activity2.dll
