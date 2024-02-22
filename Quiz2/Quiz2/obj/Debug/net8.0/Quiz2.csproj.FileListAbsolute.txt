@@ -1,0 +1,15 @@
+D:\katugnawsac2\Quiz2\Quiz2\bin\Debug\net8.0\Quiz2.exe
+D:\katugnawsac2\Quiz2\Quiz2\bin\Debug\net8.0\Quiz2.deps.json
+D:\katugnawsac2\Quiz2\Quiz2\bin\Debug\net8.0\Quiz2.runtimeconfig.json
+D:\katugnawsac2\Quiz2\Quiz2\bin\Debug\net8.0\Quiz2.dll
+D:\katugnawsac2\Quiz2\Quiz2\bin\Debug\net8.0\Quiz2.pdb
+D:\katugnawsac2\Quiz2\Quiz2\obj\Debug\net8.0\Quiz2.GeneratedMSBuildEditorConfig.editorconfig
+D:\katugnawsac2\Quiz2\Quiz2\obj\Debug\net8.0\Quiz2.AssemblyInfoInputs.cache
+D:\katugnawsac2\Quiz2\Quiz2\obj\Debug\net8.0\Quiz2.AssemblyInfo.cs
+D:\katugnawsac2\Quiz2\Quiz2\obj\Debug\net8.0\Quiz2.csproj.CoreCompileInputs.cache
+D:\katugnawsac2\Quiz2\Quiz2\obj\Debug\net8.0\Quiz2.sourcelink.json
+D:\katugnawsac2\Quiz2\Quiz2\obj\Debug\net8.0\Quiz2.dll
+D:\katugnawsac2\Quiz2\Quiz2\obj\Debug\net8.0\refint\Quiz2.dll
+D:\katugnawsac2\Quiz2\Quiz2\obj\Debug\net8.0\Quiz2.pdb
+D:\katugnawsac2\Quiz2\Quiz2\obj\Debug\net8.0\Quiz2.genruntimeconfig.cache
+D:\katugnawsac2\Quiz2\Quiz2\obj\Debug\net8.0\ref\Quiz2.dll
